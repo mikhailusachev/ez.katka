@@ -10,6 +10,8 @@ gradle*
 #junit compilation file
 www-testz/
 www-tmp/
+# JEnv local Java version configuration file
+.java-version
 
 # Package Files #
 *.jar
